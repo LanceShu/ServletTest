@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocketText.iml" filepath="$PROJECT_DIR$/.idea/modules/SocketText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocketText_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SocketText_main.iml" group="SocketText" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocketText_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SocketText_test.iml" group="SocketText" />
     </modules>
   </component>
 </project>
